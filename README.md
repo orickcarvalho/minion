@@ -7,6 +7,6 @@ Minion navegador feito em electron para testes
 
 Atalhos:
 <ul>
-<li>Ctrl + I ⇛ Abrir DevTools</li>
-<li>Ctrl + W ⇛ Sair do Minion</li>
+<li>Ctrl + I → Abrir DevTools</li>
+<li>Ctrl + W → Sair do Minion</li>
 </ul>

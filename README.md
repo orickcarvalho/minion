@@ -1,6 +1,6 @@
 # minion
 Minion navegador feito em electron para testes
 
-yarn start para iniciar
+<b>yarn start</b> para iniciar
 
-yarn build para compilar para windows 32-64
+<b>yarn build</b> para compilar para windows 32-64
